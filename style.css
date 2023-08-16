@@ -1,0 +1,15 @@
+
+
+.glassCard{
+    /* From https://css.glass */
+background: rgba(110, 125, 153, 0.546);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(238, 230, 13, 0.713);
+backdrop-filter: blur(6.3px);
+-webkit-backdrop-filter: blur(6.3px);
+border: 1px solid rgba(219, 236, 60, 0.515);
+}
+
+.newFont{
+    font-family: 'Press Start 2P', cursive;
+}
